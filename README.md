@@ -1,5 +1,5 @@
 ### Olá, eu sou [João Marcelo] 👋
-
+-- Desenvolvedor front-end
 - 🌱 Atualmente estou aprendendo react....
 - ⚡ Curiosidade: amo ler livros ...
 
