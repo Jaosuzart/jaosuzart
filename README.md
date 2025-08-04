@@ -9,8 +9,6 @@ Sou apaixonado por cada tecnologia que surge, sou especialista em HTML, CSS e JS
 
 ---[https://www.linkedin.com/in/joao-marcelo-suzart-lima-castro/]
 
-### Tecnologias que eu uso
-
 ### 🚀 Tecnologias que eu uso
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
