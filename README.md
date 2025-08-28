@@ -19,6 +19,7 @@ Sou apaixonado por cada tecnologia que surge, sou especialista em HTML, CSS e JS
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/php-646CFF?style=for-the-badge&logo=php&logoColor=white)]()
+[![Mysql](https://img.shields.io/badge/mysql-646CFF?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 
 ### Minhas estatísticas no GitHub
