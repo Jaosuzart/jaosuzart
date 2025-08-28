@@ -18,7 +18,7 @@ Sou apaixonado por cada tecnologia que surge, sou especialista em HTML, CSS e JS
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
-<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/7cd6b894-66e2-45b4-a785-3aee42ac5033" />
+[![PHP](https://img.shields.io/badge/php-646CFF?style=for-the-badge&logo=php&logoColor=white)]()
 
 
 ### Minhas estatísticas no GitHub
